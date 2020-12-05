@@ -32,5 +32,5 @@ Sometimes some extra characters were inserted automatically at start and end of 
 ### Webapp works for almost every image and all credit goes to --
   ![4320bfb8bb0b957286d1cfc18e7775aa](https://user-images.githubusercontent.com/69648635/101239927-9e048480-3711-11eb-892c-fd214786b714.gif)
   
-  Teserract!!😂
+  Tesseract!!😂
 ## Made with 💖 by Srijan
