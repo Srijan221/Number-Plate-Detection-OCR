@@ -13,8 +13,10 @@ Pytesseract Model is used for training and detecting the exact text from the Lic
 
 ### Deploying this model to Anvil WebApp
 Anvil Webserver is used to deploy this model to the web with free membership.
-Anvil private Hosting link - https://RZNK4SZD7CYXKASZ.anvil.app/63RFTQUZPX5PTBMF6LWLDXDE
+
   ![image](https://user-images.githubusercontent.com/69648635/101239742-110cfb80-3710-11eb-93de-d7fc5ffc4be8.png)
+# 
+Anvil private Hosting link - https://RZNK4SZD7CYXKASZ.anvil.app/63RFTQUZPX5PTBMF6LWLDXDE
 
 ### Errors Encountered for some Images
 Some texts were not detected properly for some images - 
